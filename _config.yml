@@ -1,4 +1,4 @@
 name: ""
 title: null  # Custom site title (or set to null)
-theme: minima              # Default theme
+theme: minimal              # Default theme
 show_downloads: false      # Hide download links
