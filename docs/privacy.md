@@ -1,3 +1,8 @@
+---
+layout: default
+title: Wislo Privacy Policy
+---
+
 # Wislo Privacy Policy
 
 Last updated: October 12, 2025
