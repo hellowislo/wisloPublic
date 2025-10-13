@@ -1,4 +1,4 @@
 name: ""
 title: null  # Custom site title (or set to null)
-theme: pages-themes/primer@v0.6.0
+theme: jekyll-theme-primer
 show_downloads: false      # Hide download links
