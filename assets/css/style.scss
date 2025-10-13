@@ -2,3 +2,8 @@
 .site-header {
   display: none;
 }
+.wrapper {
+  max-width: 960px; /* Or a width of your choice */
+  margin: 0 auto; /* This centers the container */
+  text-align: justify; /* This justifies the text */
+}
