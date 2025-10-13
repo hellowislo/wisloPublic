@@ -1,6 +1,6 @@
 title: Wislo Documentation  # Custom site title (or set to empty string: "")
 theme: minima              # Default theme
-header_pages:              # Optional: Remove header navigation
-  - docs/privacy.md
-  - docs/license.md
+#header_pages:              # Optional: Remove header navigation
+#  - docs/privacy.md
+#  - docs/license.md
 show_downloads: false      # Hide download links
