@@ -1,3 +1,8 @@
+---
+layout: default
+title: Wislo Open Source Licenses
+---
+
 # Wislo Open Source Licenses
 
 Wislo uses the following open-source libraries:
