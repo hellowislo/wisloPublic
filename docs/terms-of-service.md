@@ -4,7 +4,7 @@ title: Wislo Terms of Service
 ---
 
 # Wislo Terms of Service
-**Last Updated: February 12, 2026**
+Last Updated: February 12, 2026
 
 By downloading or using Wislo, these terms automatically apply to you. Please read them carefully before using the application.
 
