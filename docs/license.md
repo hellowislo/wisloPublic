@@ -1,48 +1,45 @@
 ---
 layout: default
-title: Wislo Open Source Licenses
+title: Wislo Terms of Service
 ---
 
-# Wislo Open Source Licenses
+# Wislo Terms of Service
+**Last Updated: February 12, 2026**
 
-Wislo uses the following open-source libraries:
+By downloading or using Wislo, these terms automatically apply to you. Please read them carefully before using the application.
 
-## webview_flutter
-**License**: Apache License 2.0
+## 1. Description of Service
+Wislo is a productivity and parental monitoring tool designed to help parents manage their children's screen time through app locking and interactive questioning.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+## 2. Eligibility and Responsibility
+* **Parental Consent:** If you are a parent or guardian, by allowing your child to use the app, you agree to these terms on their behalf.
+* **Lawful Use:** You agree to use this app only for monitoring minors for whom you are the legal guardian. Using this app to monitor adults or individuals without their explicit consent may violate local privacy laws and is strictly prohibited.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+## 3. Account Security
+You are responsible for maintaining the confidentiality of the **Master Password**. You are responsible for all activities that occur under your parent profile.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+## 4. Usage Rules
+* You must not attempt to bypass the app's security features.
+* The apps features require an active internet connection to function properly.
 
-## package_info_plus
-**License**: MIT License
+## 5. Disclaimers and Limitation of Liability
+* **"As-Is" Basis:** Wislo is provided "as is" without warranties of any kind.
+* While we strive for 100% uptime, the app's ability to lock other applications depends on the Android OS and device-specific battery optimization settings. We are not liable for any failure to block an app.
+* **No Guarantee of Accuracy:** Usage statistics are provided for informational purposes and may vary slightly from system-reported data.
 
-MIT License
+## 6. Data Deletion
+We provide a "Delete My Data" feature within the app. Upon using this feature, your data will be queued for deletion from our servers. Once deleted, this data cannot be recovered.
 
-Copyright (c) 2020 Flutter Community
+## 7. Changes to Terms
+We reserve the right to update these terms at any time. Continued use of the app after changes constitutes acceptance of the new terms.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 8. Changes to This Policy
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+If we ever need to make important changes, we will tell you inside the app and/or by email.
+We recommend checking back here from time to time.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This policy follows Indian law. Any questions or disputes will be handled under the laws of Karnataka, with courts in Bengaluru having jurisdiction.
+
+## 9. Contact
+For support or legal inquiries, contact: **hellowislo@gmail.com**
+
