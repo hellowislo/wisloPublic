@@ -38,7 +38,7 @@ Wislo requires specific Android permissions to function. We follow the principle
 
 - **Background Autostart & Battery Optimization:** Ensures Wislo can reliably trigger educational challenges even when your child is deep into their favorite app.
 
-- **Query All Packages (App Visibility):** Wislo requires the "Query All Packages" permission to list out in Parents Dashboard showing which apps are used for how much time. This permission allows the app to display usage data and icons in the Parent Dashboard and is essential for triggering educational interventions. We do not transmit your list of installed apps to our servers for any other purpose.
+- **Query All Packages (App Visibility):** Wislo requires the "Query All Packages" permission to list out in Parents Dashboard showing which apps are used for how much time. This permission allows the app to display usage data and icons in the Parent Dashboard and is essential for triggering educational interventions. We use this information solely to populate the Parent Dashboard and do not share this data with third parties for advertising or any other purpose.
 
 - **Foreground Service (FGS):** To ensure continuous protection and reliable delivery of grade-based questions, Wislo uses a Foreground Service. This prevents the Android system from killing the app process, ensuring that your child’s screen time remains supervised even during long usage sessions. A persistent notification is shown to signify that Wislo is active.
 
