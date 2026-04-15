@@ -5,7 +5,7 @@ title: Wislo Privacy Policy
 
 # Wislo Privacy Policy
 
-Last updated: February 12, 2026
+**Effective Date: March 1, 2026**
 
 At Wislo, we exist to help parents guide their children’s screen time with kindness and care — never to collect more information than necessary.
 
@@ -13,46 +13,39 @@ We are committed to keeping your family’s information safe and private. This p
 
 ## 1. What Information We Collect
 
-### Information You Give Us
-When you set up Wislo, we ask for:
-- Your name and mobile number (so we know it’s really you managing the family settings).
-- A master password for the parent account (to keep settings secure).
-- Your child’s first name and school grade (to personalise the experience).
-- A simple profile password for your child (so they can use Wislo without changing important settings).
+### Information You Provide
+- **Parent Data:** Name and mobile number to manage account security.
+- **Master Password:** A 6-digit PIN to secure parent-only settings.
+- **Child Profiles:** First name and school grade to personalize the educational experience.
 
-### Information Wislo Learns While Helping You
-To show accurate screen-time reports and apply the rules you choose, the app notices:
-- Which apps your child opens and how long they spend in each.
-- When a tracked app is launched (so we can show the lock screen or grade based question at the right moment).
-- Basic device info (phone model and Android version) — only to make sure Wislo works smoothly on your device.
+### Information We Process Locally & On Servers
+- **App Usage:** We track which apps are opened and for how long to generate your Parent Dashboard reports.
+- **Device Info:** Basic model and Android version to ensure technical compatibility.
 
-### Tools We Use Behind the Scenes
-We use Firebase (a Google service trusted by millions of apps) to:
-- Understand how people use Wislo so we can keep improving it
-- Quickly find and fix crashes or bugs.
+### Analytical Tools
+We use **Firebase (by Google)** for crash reporting and basic app usage analytics. This helps us fix bugs and improve Wislo. These tools do not track you across other apps or build advertising profiles.
 
-We never use these tools to track you outside the app or build advertising profiles.
+## 2. Permissions & Core Functionality
 
-## 2. The Permissions We Ask For — And Exactly Why
+Wislo requires specific Android permissions to function. We follow the principle of "Data Minimization"—we only access what is needed for the app to work.
 
-Wislo needs a few special Android permissions to do its job properly. We always explain them clearly when you turn them on, and you can turn them off anytime.
+- **Accessibility Service API (Core Functionality):** Wislo uses this API to detect when a "tracked app" is launched. This is the **only way** we can trigger the lock screen or the grade-based questions at the correct time.
 
-- **Accessibility Service** (“App Detection”)
-  Lets Wislo notice when your child opens an app. We use this **only** to show the lock screen or ask the grade based question at the perfect moment.
-  **Privacy Guarantee:** Wislo **never** reads your messages, sees what anyone is typing, views photos, listens to audio, or accesses personal content of any kind.
+  **Privacy Guarantee:** This API is used exclusively for app detection. Wislo **does not** monitor, collect, or transmit any private data including messages, photos, keystrokes, or screen content. This data is processed locally on your device and is never shared or sold.
 
-- **Usage Access**
-  Lets us count time spent in different apps so the Parent Dashboard shows honest, helpful reports.
+- **Usage Access:**
+  Required to calculate time spent in different apps so the Parent Dashboard shows honest, helpful reports.
 
-- **Notifications**
-  Helps Wislo stay running smoothly and deliver grade based questions to your child while they’re using the phone.
+- **Background Autostart & Battery Optimization:** Ensures Wislo can reliably trigger educational challenges even when your child is deep into their favorite app.
+
+- **Notifications:** Necessary to keep the Wislo service active in the background.
 
 All these permissions are required for Wislo to work properly — please keep them enabled to make use of the app functionalities.
 
 ## 3. Where We Keep Your Information
 
-- Most data (profile details, daily usage summary) lives **only on your phone** in a private, protected area — so everything works fast even without internet.
-- A small amount of necessary information (names, your phone number, usage summary) is sent to our secure servers so the Parent Dashboard stays up-to-date from any device and even when the child’s phone is offline.
+- Most data (profile details, daily usage summary) stays **only on your phone** in a private, protected area — so everything works fast even without internet.
+- Necessary information (names, your phone number, usage summary) is sent to our secure servers so the Parent Dashboard stays up-to-date from any device and even when the child’s phone is offline.
 - Everything that travels between your phone and our servers is strongly encrypted the whole way.
 
 ## 4. We Never Sell Your Family’s Information
@@ -63,18 +56,13 @@ We share analytical data **only** in these very limited situations:
 - With trusted technical partners (like Firebase, a Google service trusted by millions of apps) who help keep the app stable and reliable — they are strictly not allowed to use the data for their own purposes
 - If required by law, to protect someone’s safety, or to follow a valid court order
 
-That’s it.
-
 ## 5. You Are Always in Control
 
 - **Uninstalling the app** → All data stored locally on the phone is automatically removed.
 - **“Delete My Data”** option (found in App Settings) → Permanently deletes your account, your child’s profile, all usage history, and everything we hold on our servers. This usually completes within a few hours.
 
-## 6. Children's Privacy
-
-Wislo is built for parents and guardians.
-We never collect information directly from children. A parent must install the app, create the profiles, and give permission before anything is tracked.
-We follow children’s privacy rules very carefully.
+## 6. Children’s Privacy (COPPA/GDPR)
+Wislo is a tool for **Parental Control**. We do not knowingly collect personal information from children under 13 without verifiable parental consent. All child profiles are created and managed by the parent/guardian. We do not use child data for marketing or behavioral advertising. We follow children’s privacy rules very carefully.
 
 ## 7. Security & External Links
 
@@ -88,7 +76,7 @@ We recommend checking back here from time to time.
 
 This policy follows Indian law. Any questions or disputes will be handled under the laws of Karnataka, with courts in Bengaluru having jurisdiction.
 
-## 9. Questions? We’re Here to Help
+## 9. Contact Us
 
 Email us anytime:
 **hellowislo@gmail.com**
